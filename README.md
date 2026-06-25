@@ -480,8 +480,8 @@ Data Analyst | Business Analyst | Senior Software Test Engineer
 
 ### Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shanikakodithuwakku
-- GitHub: https://github.com/shanikakodithuwakku
+- LinkedIn: https://www.linkedin.com/in/shanikak
+- GitHub: https://github.com/shanikak
 
 ---
 
