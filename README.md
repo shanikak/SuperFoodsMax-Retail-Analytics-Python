@@ -470,7 +470,7 @@ notebooks/FinalSubmissionCode.ipynb
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Shanika Kodithuwakku**
 
@@ -478,10 +478,19 @@ Data Analyst | Business Analyst | Senior Software Test Engineer
 
 📍 Melbourne, Australia
 
+### Project Context
+
+This project was developed as the **completion project for the RMIT Business Analytics with SQL & Python Program**.
+
+**Course:** RMIT Business Analytics with SQL & Python  
+**Cohort:** DAT107-2026-MARA
+
+The project demonstrates the practical application of Python-based data analysis, data cleaning, exploratory data analysis, customer and revenue analysis, data visualisation, and business insight generation.
+
 ### Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/shanikak
-- GitHub: https://github.com/shanikak
+- LinkedIn: [Shanika Kodithuwakku](https://www.linkedin.com/in/shanikak)
+- GitHub: [shanikak](https://github.com/shanikak)
 
 ---
 
